@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>GET and POST Request Example</title>
+</head>
+<body>
+<h1>Send GET or POST Request</h1>
+
+<form action="doGetPost" method="get">
+	 Name : <input type="text" name="name">
+    <input type="submit" value="Send GET Request">
+</form>
+
+<form action="doGetPost" method="post">
+ 	Name : <input type="text" name="name">
+    <input type="submit" value="Send POST Request">
+</form>
+
+</body>
+</html>
+
+

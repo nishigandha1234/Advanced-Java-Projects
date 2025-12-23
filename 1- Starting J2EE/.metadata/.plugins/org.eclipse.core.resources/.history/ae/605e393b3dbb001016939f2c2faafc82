@@ -1,0 +1,30 @@
+package com.jsp.dogetdopost;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/doGetPost")
+public class doGetdoPost extends HttpServlet {
+
+    @Override
+    public void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        //resp.setContentType("text/html");
+        PrintWriter pw = resp.getWriter();
+
+        String method = req.getMethod();  // check whether it's GET or POST
+
+        if (method.equals("GET")) {
+            pw.write("<h2>This is GET request</h2>");
+            System.out.println("GET type of Request");
+        } else if (method.equals("POST")) {
+            pw.write("<h2>This is POST request</h2>");
+            System.out.println("POST type of Request");
+        }
+    }
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;bikecrud&apos;&#x0D;&#x0A;- Original project: &apos;bikecrud&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.bikecrud.bikecrud.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.bikecrud{bikecrud.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1760109937549" subPackages="false" version="1.0"/>&#x0A;&#x0A;</session>

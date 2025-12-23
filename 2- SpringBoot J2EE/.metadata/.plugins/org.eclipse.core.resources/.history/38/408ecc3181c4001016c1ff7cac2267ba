@@ -1,0 +1,8 @@
+package com.jsp.springcore1;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.jsp.springcore1
+	}
+}
+

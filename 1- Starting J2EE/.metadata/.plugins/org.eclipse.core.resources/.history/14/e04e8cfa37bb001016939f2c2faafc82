@@ -1,0 +1,8 @@
+package com.jsp.servletlifecycle;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet()
+public class ServletLifecycle extends Servlet {
+
+}

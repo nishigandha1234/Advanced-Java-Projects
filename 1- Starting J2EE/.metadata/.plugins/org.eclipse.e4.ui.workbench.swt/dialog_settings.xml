@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ShowViewDialog">
+		<item key="ShowViewDialog.STORE_SELECTED_VIEW_ID" value="org.eclipse.wst.server.ui.ServersView"/>
+		<item key="DIALOG_X_ORIGIN" value="518"/>
+		<item key="DIALOG_Y_ORIGIN" value="71"/>
+		<item key="DIALOG_WIDTH" value="347"/>
+		<item key="DIALOG_HEIGHT" value="452"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Language Servers"/>
+			<item value="Server"/>
+			<item value="Web Services"/>
+		</list>
+	</section>
+</section>

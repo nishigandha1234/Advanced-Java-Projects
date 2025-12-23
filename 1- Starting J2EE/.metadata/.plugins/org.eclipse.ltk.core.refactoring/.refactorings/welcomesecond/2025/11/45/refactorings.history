@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;welcome2.html&apos; to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;welcomesecond&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original element: &apos;welcome2.html&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/webapp/WEB-INF/welcome2.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1762611860915" target="src/main/webapp" units="0" version="1.0"/>
+</session>

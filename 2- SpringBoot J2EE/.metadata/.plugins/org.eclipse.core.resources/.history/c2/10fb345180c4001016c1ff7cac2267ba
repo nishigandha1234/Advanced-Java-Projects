@@ -1,0 +1,17 @@
+package com.jsp.springcore1;
+
+import javax.annotation.Resource;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.core.io.ClassPathResource;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Resource resource = new ClassPathResource("spring-cnf.xml");
+		BeanFactory bnf = new XmlBeanFactory(resource); 
+		
+
+	}
+
+}

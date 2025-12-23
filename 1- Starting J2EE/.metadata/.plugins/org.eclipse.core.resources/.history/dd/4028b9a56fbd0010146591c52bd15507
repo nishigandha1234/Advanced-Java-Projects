@@ -1,0 +1,10 @@
+package college;
+
+public class College_Window {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

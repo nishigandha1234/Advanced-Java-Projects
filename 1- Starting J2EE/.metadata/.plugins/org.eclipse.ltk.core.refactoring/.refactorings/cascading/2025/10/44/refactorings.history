@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.jsp.cascading.StudentDriver.java&apos; to &apos;CollegeDriver.java&apos;&#x0D;&#x0A;- Original project: &apos;cascading&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.cascading.StudentDriver.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.cascading.CollegeDriver.java&apos;" description="Rename compilation unit &apos;StudentDriver.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.cascading{StudentDriver.java" name="CollegeDriver.java" references="false" stamp="1761668235430" version="1.0"/>
+</session>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\j2ee\welocmefilelist\src\main\java\com\jsp\welocmefilelist\ServletClass.java"/>
+			<item value="D:\j2ee\onetomanyunimap"/>
+			<item value="D:\j2ee\servletemployee\src\main\java\com\jsp\servletemployee\MyEmpServelet.java"/>
+			<item value="D:\j2ee\servletemployee"/>
+			<item value="D:\j2ee\firstservlet"/>
+			<item value="D:\j2ee\airportCrudhql\src\main\java\com\jsp\airportCrudhql\AirportCrudDriver.java"/>
+			<item value="D:\j2ee\employeeCrudHql\src\main\java\com\jsp\employeeCrudHql\EmployeeCrudDriver.java"/>
+			<item value="D:\j2ee\laptopCrud\src\main\java\com\jsp\laptopCrud\entity\LaptopCrud.java"/>
+			<item value="D:\j2ee\hql\src\main\java\com\jsp\hql\StudentDriver.java"/>
+			<item value="D:\j2ee\manytomanybimap\src\main\java\com\jsp\manytomanybimap\entity\Doctor.java"/>
+			<item value="D:\j2ee\manytomanybimap\src\main\java"/>
+			<item value="D:\j2ee\onetoonebimap\src\main\java\com\jsp\onetoonebimap\PersonPancardDriver.java"/>
+			<item value="D:\j2ee\assinmentmap2"/>
+			<item value="D:\j2ee\assignmentmapping\src\main\java\com\jsp\assignmentmapping\StudentsOrganizationDriver.java"/>
+			<item value="D:\j2ee\onetomanyunimap\src\main\java\com\jsp\onetomanyunimap\entity\Company.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.jsp.sendredirect"/>
+			<item value="com.jsp.loadonstartup"/>
+			<item value="com.jsp.welcomesecond"/>
+			<item value="com.jsp"/>
+			<item value="com.jsp.welocmefilelist"/>
+			<item value="com.jsp.dogetdopost"/>
+			<item value="com.jsp.servletlifecycle"/>
+			<item value="com.jsp.requestdispatcher"/>
+		</list>
+		<list key="groupId">
+			<item value="com.jsp"/>
+		</list>
+		<list key="artifactId">
+			<item value="sendredirect"/>
+			<item value="loadonstartup"/>
+			<item value="welcomesecond"/>
+			<item value="welocmefilelist"/>
+			<item value="dogetdopost"/>
+			<item value="servletlifecycle"/>
+			<item value="requestdispatcher"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

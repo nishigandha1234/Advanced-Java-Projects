@@ -1,0 +1,15 @@
+package com.jsp.springcore2;
+
+import org.springframework.beans.propertyeditors.ClassArrayEditor;
+import org.springframework.cglib.transform.AbstractClassTransformer;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		ApplicationContext ac = new AnnotationConfigApplicationContext(MyConfig.class);
+
+	}
+
+}
