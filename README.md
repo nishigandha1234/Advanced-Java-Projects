@@ -62,16 +62,32 @@ Advanced-Java-Projects/
 1. Clone the repository:
    ```bash
    git clone https://github.com/nishigandha1234/Advanced-Java-Projects.git
-## 📂 Repository Structure
+
+2. Open **Eclipse IDE**
+
+3. Import the projects:
+   - For **J2EE / Servlets projects**  
+     `File → Import → Existing Projects into Workspace`
+   - For **Spring Boot (Maven) projects**  
+     `File → Import → Existing Maven Projects`
+
+4. Configure **Apache Tomcat 9**:
+   - `Window → Preferences → Server → Runtime Environments`
+   - Add **Apache Tomcat v9.0**
+   - Set Tomcat installation directory
+
+5. Add the project to the server:
+   - Right-click project → `Run As → Run on Server`
+   - Select **Tomcat 9**
+
+6. Start the server
+
+7. Open browser and access the application: http://localhost:8080/project-name
+8. For Spring Boot applications:
+- Right-click project
+- `Run As → Spring Boot App`
 
 ---
 
-## ✅ FINAL STEPS (Upload README)
 
-Save as **`README.md`** in your project root, then run:
-
-```cmd
-git add README.md
-git commit -m "Added combined README file"
-git push
 
