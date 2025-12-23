@@ -23,7 +23,9 @@ The projects demonstrate hands-on implementation of **Servlets, JSP, JDBC, Reque
 Advanced-Java-Projects/
 │
 ├── 1- Starting J2EE/
+
 │ ├── Servlet Lifecycle
+|
 │ ├── Request Dispatcher
 │ ├── Load-on-Startup
 │ ├── Welcome File List
