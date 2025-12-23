@@ -20,13 +20,13 @@ The projects demonstrate hands-on implementation of **Servlets, JSP, JDBC, Reque
 - Git & GitHub
 
 ---
-Advanced-Java-Projects/
-│
-├── 1- Starting J2EE - Servlet Lifecycle - Request Dispatcher - Load-on-Startup - Welcome File List - JDBC CRUD Operations - doGet & doPost Examples
-│
-├── 2- SpringBoot J2EE - Spring Core Examples - Spring Boot Maven Projects
-│
-└── README.md
+Advanced-Java-Projects
+# 1- Starting J2EE
+- Servlet Lifecycle - Request Dispatcher - Load-on-Startup - Welcome File List - JDBC CRUD Operations - doGet & doPost Examples
+
+# 2- SpringBoot J2EE 
+- Spring Core Examples - Spring Boot Maven Projects
+-  README.md
 ---
 
 ## 📌 Concepts Covered
